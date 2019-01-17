@@ -21,8 +21,6 @@ Build a Responsive Food website with HTML5 and CSS3
 
 * **Jonas Schmedtmann** - *Initial work* - [Mahmudul Hasan Porag](https://github.com/porag303)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## Conclusion
 
 Development as a learning purpose
