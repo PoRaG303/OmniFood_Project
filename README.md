@@ -1,4 +1,4 @@
-# Responsive-Website-Project
+# prog303 Responsive-Website-Tutorial
 HTML, CSS and JQuery
 
 ## Getting Started
